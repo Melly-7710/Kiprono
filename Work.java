@@ -10,7 +10,7 @@ public class Work {
 
         System.out.print("Enter your height in Cm:");
         height = in.nextInt(); // Assign the input to the variable
-        System.out.print("Enter your weight in kilograms:");
+        System.out.print("Enter your weight in lbs:");
         weight = in.nextInt(); // Assign the input to the variable
 
         // Calculate BMI
